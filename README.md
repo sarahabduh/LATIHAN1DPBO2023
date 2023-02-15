@@ -7,11 +7,12 @@ Kelas yang digunakan dalam program ini adalah kelas Mahasiswa dengan atribut seb
   - nim (string)
   - prodi (string)
   - fakultas (string)
+  
 Kelas dibuat dalam file terpisah.
 
 Program berbasis OOP dibuat menggunakan 4 bahasa pemrograman, yaitu: C++, Java, Python, dan PHP. Program dapat menampilkan daftar mahasiswa dan memiliki fitur untuk menambah, mengubah, dan menghapus data.
 
-## [Penjelasan Alur]
+## Penjelasan Alur
 - User memasukkan jumlah data.
 - User memasukkan data (nama, nim, prodi, fakultas).
 - Program akan menampilkan daftar mahasiswa yang telah dimasukkan.
@@ -26,7 +27,7 @@ Program berbasis OOP dibuat menggunakan 4 bahasa pemrograman, yaitu: C++, Java, 
       
 - Program akan menampilkan error jika input user tidak sesuai dengan opsi yang tersedia.
   
-## [Screenshot Hasil Program] 
+## Screenshot Hasil Program
 ### Java
 
 **Output Awal**
